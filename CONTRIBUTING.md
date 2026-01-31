@@ -6,3 +6,7 @@ SELECT, INSERT, UPDATE, DELETE
 
 CRUD (Create, Read, Update, Delete)
 ------------//////////-------------
+
+LAST_INSERT_ID()
+
+git status -s сокращенный вывод
