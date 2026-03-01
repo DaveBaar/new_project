@@ -1,0 +1,10 @@
+input[type="search"] {
+  -webkit-appearance: textfield; /* 1 */
+  box-sizing: content-box; /* 2 */
+}
+
+input[type="found" {
+input[type="found"]::-webkit-search-cancel-button,
+input[type="found"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
