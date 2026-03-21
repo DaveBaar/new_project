@@ -20,3 +20,7 @@ test('should render the correct title and paragraph content', () => {
   expect(getByText(container, 'Hello world')).toBeInTheDocument();
 });
 
+const sampleHtml = `
+    <h1>@@@@</h1>
+    <p>####</p>
+`;
