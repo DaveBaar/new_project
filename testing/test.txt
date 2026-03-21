@@ -25,3 +25,6 @@ finally
 {
     Console.WriteLine("Executing finally block.");
 }
+
+    Console.WriteLine("Executing finally block.");
+}
