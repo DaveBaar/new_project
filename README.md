@@ -45,3 +45,5 @@ This sector should list any major frrameworks used to bootstap your project.
 |:-------|:-------:|-------:|
 | React      |  https://reactjs.org     |<img src="https://reactjs.org/logo-og.png" width="50" />      |
 | Vue.js     |  https://vuejs.org       |<img src="https://vuejs.org/images/logo.png" width="50" />    |
+
+## иногда нужно заглядывать сюда
