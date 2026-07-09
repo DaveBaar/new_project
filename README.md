@@ -1,6 +1,6 @@
 
 
-# My_prijext
+# My_project
 
 Simple overview of use/purpose 😸
 
